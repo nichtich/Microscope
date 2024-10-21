@@ -1,6 +1,6 @@
 # Twinkle <a href="https://certification.oshwa.org/us002677.html"><img src="assets/oshw_certification.png" align="right" width="200"></a>
 
-This repository documents a microscope for Two-photon Imaging in Neuroscience, and Kit for Learning and Education — "Twinkle". <br/> It offers an affordable solution for a fully open, high-performance and cost-effective research and teaching microscope. Here, you can find the complete design and documentation. 
+This repository documents a microscope for [Two-photon Imaging](https://en.wikipedia.org/wiki/Two-photon_excitation_microscopy) in Neuroscience, and Kit for Learning and Education — "Twinkle". <br/> It offers an affordable solution for a fully open, high-performance and cost-effective research and teaching microscope. Here, you can find the complete design and documentation. 
 
 ![img](./assets/overview.jpg)
 
